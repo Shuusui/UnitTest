@@ -1,2 +1,2 @@
 # UnitTest
-![build](https://ci.appvoyer.com/api/projects/status/github/Shuusui/unittest?branch={master}&svg=true)
+[![Build status](https://ci.appveyor.com/api/projects/status/kbyns4eomutpti7f?svg=true)](https://ci.appveyor.com/project/Shuusui/unittest)
